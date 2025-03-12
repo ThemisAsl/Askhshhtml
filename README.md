@@ -20,12 +20,12 @@
         </p> 
         <p>
         <video controls>
-                <source src="videos/video.wmv" type="video/x-ms-wmv">
-                <source src="videos/video.mp4" type="video/mp4">
+                <source src="video.wmv" type="video/x-ms-wmv">
+                <source src="video.mp4" type="video/mp4">
         </video>
         </p> <br>
         <p>
-            <audio controls src="audio/music.mp3" preload="auto" autoplay="true" loop="true"></audio><br>
+            <audio controls src="music.mp3" preload="auto" autoplay="true" loop="true"></audio><br>
             Το πρόγραμμα περιήγησής σας δεν υποστηρίζει το στοιχείο audio.
         </p>
         <p>
