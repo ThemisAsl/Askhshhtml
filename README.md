@@ -7,9 +7,8 @@
         height: auto; 
         float: left; 
         padding: 1rem;
-      }  
-      
-    </style>
+      }
+      </style>
     <title>Video </title>
 
 </head>
@@ -32,6 +31,5 @@
         <p>
             <a href="https://www.youtube.com/watch?v=0pF73Uk3fHw"><img src="giphy.gif"></a>
         </p>
-
     </div>
 </body>
